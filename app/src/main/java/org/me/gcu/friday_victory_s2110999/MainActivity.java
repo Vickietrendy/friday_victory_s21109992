@@ -7,9 +7,9 @@
 */
 
 //
-// Name                 _________________
-// Student ID           _________________
-// Programme of Study   _________________
+// Name                 Victory Friday
+// Student ID           S2110999
+// Programme of Study   Computing
 //
 
 // UPDATE THE PACKAGE NAME to include your Student Identifier

@@ -1,3 +1,8 @@
+//
+// Name                 Victory Friday
+// Student ID           S2110999
+// Programme of Study   Computing
+
 package org.me.gcu.friday_victory_s2110999;
 
 import android.content.Intent;
